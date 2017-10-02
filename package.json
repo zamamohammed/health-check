@@ -15,7 +15,7 @@
     "checkit": "^0.5.1",
     "connect": "^3.3.5",
     "connect-mongo": "*",
-    "connect-redis": "^2.3.0",
+    "connect-redis": "^3.0.0",
     "data.io": "*",
     "express": "^5.0.0-alpha.1",
     "express-handlebars": "^2.0.1",
